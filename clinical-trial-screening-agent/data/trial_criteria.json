@@ -1,0 +1,17 @@
+{
+  "trial_id": "TRIAL_2025_001",
+  "trial_name": "Type 2 Diabetes Cardiovascular Outcomes Study",
+  "description": "A study evaluating cardiovascular outcomes in patients with Type 2 Diabetes and early-stage chronic kidney disease.",
+  "inclusion_criteria": [
+    "Patient must have a diagnosis of Type 2 Diabetes Mellitus",
+    "Patient must have Chronic Kidney Disease (CKD) stage 3 or earlier",
+    "Patient must be on at least one antidiabetic medication",
+    "Patient age must be between 40 and 75 years"
+  ],
+  "exclusion_criteria": [
+    "Patient must NOT have active cancer or malignancy",
+    "Patient must NOT have had a recent stroke or subarachnoid hemorrhage",
+    "Patient must NOT be on immunosuppressive therapy",
+    "Patient must NOT have severe heart failure"
+  ]
+}
