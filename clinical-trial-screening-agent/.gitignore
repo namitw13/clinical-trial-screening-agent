@@ -2,6 +2,5 @@
 __pycache__/
 *.pyc
 .venv/
-data/raw/
 *.egg-info/
 .DS_Store

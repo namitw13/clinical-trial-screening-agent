@@ -1,0 +1,32 @@
+[
+  {
+    "note_id": "NOTE_001",
+    "patient_id": "P1001",
+    "note_type": "Discharge Summary",
+    "text": "Patient is a 58-year-old male with a history of type 2 diabetes mellitus, hypertension, and chronic kidney disease stage 3. Admitted for chest pain and shortness of breath. HbA1c was 9.2%, eGFR 42 mL/min. Current medications include metformin 1000mg twice daily, lisinopril 10mg daily, and atorvastatin 40mg nightly. ECG showed no acute ST changes. Patient was stabilized and discharged with follow-up in 2 weeks."
+  },
+  {
+    "note_id": "NOTE_002",
+    "patient_id": "P1002",
+    "note_type": "Discharge Summary",
+    "text": "67-year-old female presenting with fatigue, weight loss of 12 lbs over 3 months, and night sweats. CT chest revealed a 3.2cm right upper lobe pulmonary nodule. PET scan showed hypermetabolic activity consistent with malignancy. Biopsy confirmed non-small cell lung cancer, adenocarcinoma subtype, stage IIIA. Patient has a 40 pack-year smoking history. No EGFR mutation detected. Referred to oncology for chemotherapy evaluation."
+  },
+  {
+    "note_id": "NOTE_003",
+    "patient_id": "P1003",
+    "note_type": "Discharge Summary",
+    "text": "45-year-old male with no significant past medical history presenting with sudden onset severe headache described as worst headache of life. CT head showed subarachnoid hemorrhage. Lumbar puncture confirmed xanthochromia. Patient was intubated and taken to ICU. BP maintained below 140 mmHg. Nimodipine started for vasospasm prophylaxis. Neurosurgery consulted for aneurysm clipping. GCS on admission 11."
+  },
+  {
+    "note_id": "NOTE_004",
+    "patient_id": "P1004",
+    "note_type": "Discharge Summary",
+    "text": "72-year-old female with known rheumatoid arthritis on methotrexate 15mg weekly and prednisone 5mg daily presenting with acute onset right knee swelling and pain. Joint aspiration revealed 45,000 WBC with 90% neutrophils, consistent with septic arthritis. Blood cultures positive for Staphylococcus aureus. Started on IV vancomycin. Orthopedics performed arthroscopic washout. ESR 110, CRP 220."
+  },
+  {
+    "note_id": "NOTE_005",
+    "patient_id": "P1005",
+    "note_type": "Discharge Summary",
+    "text": "29-year-old female with history of asthma and seasonal allergies presenting with acute asthma exacerbation. Peak flow on admission 35% of predicted. Treated with nebulized albuterol, ipratropium, and IV methylprednisolone. O2 saturation improved from 88% to 97% on room air. No intubation required. Discharged on prednisone taper and increased dose inhaled fluticasone. Advised to avoid known triggers including dust and pet dander."
+  }
+]
