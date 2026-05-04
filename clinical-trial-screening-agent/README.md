@@ -118,19 +118,7 @@ uvicorn src.api.main:app --reload --port 8000
 
 ## 📁 Project Structure
 
-clinical-trial-screening-agent/
-├── data/
-│   ├── raw/                  # Clinical notes
-│   └── trial_criteria.json   # Trial eligibility criteria
-├── src/
-│   ├── agent/                # LangGraph multi-step agent
-│   ├── api/                  # FastAPI routes and Pydantic models
-│   ├── nlp/                  # NER pipeline and data loader
-│   └── db/                   # PostgreSQL models and CRUD operations
-├── requirements.txt
-├── render.yaml
-├── Procfile
-└── README.md
+clinical-trial-screening-agent/ ├── data/ │ ├── raw/ # Clinical notes │ └── trial_criteria.json # Trial eligibility criteria │ ├── src/ │ ├── agent/ # LangGraph multi-step agent │ ├── api/ # FastAPI routes and Pydantic models │ ├── nlp/ # NER pipeline and data loader │ └── db/ # PostgreSQL models and CRUD operations │ ├── requirements.txt ├── render.yaml ├── Procfile └── README.md
 
 ---
 
